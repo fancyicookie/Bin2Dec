@@ -24,7 +24,7 @@ export default {
 
 <style lang="less">
 #app {   
-  background-image:url('../public/bgc.jpg');
+  background-image:url('./assets/bgc.jpg');
   background-repeat: no-repeat;
   width:100%;
   height:100%;
