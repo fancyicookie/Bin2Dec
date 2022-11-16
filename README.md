@@ -4,7 +4,7 @@
 -->
 # Bin2Dec
 
-Check the demo here
+Check the [demo here](https://fancyicookie.github.io/Bin2Dec/)
 
 App made for the challenge [App Ideas](https://github.com/florinpop17/app-ideas)
 
