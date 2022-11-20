@@ -16,7 +16,7 @@ export default {
     data() {
       return {
         binary_num: '',
-        decimal_result: '',
+        // decimal_result: '',
         alert_info: ''
       }
     },
@@ -53,7 +53,13 @@ export default {
           }
         }  
       }
-    }
+    },
+    // 没有办法使用计算属性，计算属性能实时去得到值，并且可有缓存，但无法做异步任务。
+    // computed: {
+    //   decimal_result() {
+    //     return parseInt(this.binary_num, 2);
+    //   }
+    // }
 }
 </script>
 
